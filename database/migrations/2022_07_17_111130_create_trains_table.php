@@ -6,11 +6,11 @@ use Illuminate\Support\Facades\Schema;
 
 class CreateTrainsTable extends Migration
 {
-    // /**
-    //  * Run the migrations.
-    //  *
-    //  * @return void
-    //  */
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
     public function up()
     {
         Schema::create('trains', function (Blueprint $table) {

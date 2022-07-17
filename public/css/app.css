@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.train {
+    background-color: greenyellow;
+    display: inline-block;
+    margin: 20px;
+}

@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class train extends Model
+class Train extends Model
 {
     //
 }
